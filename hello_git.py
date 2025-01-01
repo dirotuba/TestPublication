@@ -1,6 +1,6 @@
 print ("Hello Git!")
 print("Hello tout le monde!")
 print ("J'ai ruiné le code")
-print ("Je suis un sacré génie")
+print ("Je suis un énorme génie")
 print ("le danger est partout")
 print ("Encore une modification")
